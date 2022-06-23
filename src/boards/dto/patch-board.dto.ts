@@ -1,4 +1,4 @@
-import { BoardStatus } from '../boards-status.enum'
+import { BoardStatus } from '../board-status.enum'
 
 export class PatchBoardDto {
   id: number
