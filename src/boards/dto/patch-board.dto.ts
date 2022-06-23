@@ -1,6 +1,6 @@
 import { BoardStatus } from '../boards-status.enum'
 
 export class PatchBoardDto {
-  id: string
+  id: number
   status: BoardStatus
 }
